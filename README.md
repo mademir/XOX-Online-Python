@@ -1,2 +1,2 @@
 # XOX-Online-Python
-A basic, online XOX game which works via FTP.
+A basic, online XOX PyGame game which works via FTP.
