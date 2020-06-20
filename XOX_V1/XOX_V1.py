@@ -227,6 +227,7 @@ if first==b'':
         scr.blit(xpng,PDICT[i])
         flip()
         table[DICT[i][0]][DICT[i][1]]=1
-## After the first move handled, starts the game loop.
+
+## After the first move handled, start the game loop.
 main()
 qt()
