@@ -1,0 +1,17 @@
+How to play:
+Start the game and wait untill your friend (opponent) joins and makes the first move.
+You can directly make the first move, if you have joined as the 2nd player.
+Then, you can play one by one.
+
+IMPORTANT:
+In this version, when a player initializes the game, the game randomly assigns the client to 'X' or 'O' and waits for an opponent to join and make the first move.
+While waiting for the opponent, the gui does not respond and it might freezes. But it only lasts untill the opponent makes a move.
+IF A PLAYER QUITS WITHOUT USING THE CLOSE BUTTON OR THE PROGRAM CRASHES, CLIENT MAY NOT BE ABLE TO INFORM THE SERVER.
+If that happens, the game might crash at start or the 2nd player that joins might have problems.
+IN THIS CASE, CLOSE THE GAME AND USE RESET.EXE TO RESET THE SERVER. THIS WILL CLEAR THE DATA ON THE SERVER SO DO NOT USE THIS DURING THE GAME.
+After resetting, you can restart the game.
+
+This game runs on each client and transmits data through a public FTP server.
+The game is playable but not perfect in this version.
+There are no skores or lobies and the game shuts itself when the session ends. (win/draw/mid-game exit/error)
+Only one game with two players can play it at a time because the game currently uses only one file with one byte on the public server.
