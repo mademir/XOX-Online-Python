@@ -1,0 +1,8 @@
+-Added lobby system: You can now create seperate rooms or join them with ease.
+-Game is now continuous: The game re-draws itself in case of a win/draw.
+-Added info bar: You can view the current score and see the names of the players and whose turn. Also added the return button to quit the room.
+-Added offline mode: You can play it offline against a bot.
+
+Fixes:
+-Fixed freezing issues: The game(gui) is now responsive while waiting for opponent.
+-Fixed mid-game crashes: This was due to the test server regularly cleaning the game's server files. Now even if that happens game continues by uploading back-ups.
