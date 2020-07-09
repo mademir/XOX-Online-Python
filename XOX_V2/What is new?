@@ -2,6 +2,7 @@
 -Game is now continuous: The game re-draws itself in case of a win/draw.
 -Added info bar: You can view the current score and see the names of the players and whose turn. Also added the return button to quit the room.
 -Added offline mode: You can play it offline against a bot.
+-Added random start: Now creater of the room can make the first move too. (This is calculated after the opponent joins.)
 
 Fixes:
 -Fixed freezing issues: The game(gui) is now responsive while waiting for opponent.
